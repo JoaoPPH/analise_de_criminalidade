@@ -1,6 +1,6 @@
 # Análise de Criminalidade
 
-Repositório do trabalho de Analise de Criminalidade
+Repositório do trabalho de Análise de Criminalidade
 
 **Matéria:** Projeto Integrador Computação 3
 
