@@ -1,6 +1,6 @@
 # Análise de Criminalidade
 
-Repositório do trabalho de Analise de Criminalidade da matéria de Análise de Dados Aplicada a Computação da FAESA
+Repositório do trabalho de Analise de Criminalidade
 
 **Matéria:** Projeto Integrador Computação 3
 
