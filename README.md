@@ -1,6 +1,12 @@
-# Análise de Criminalidade - Análise de Dados Aplicada a Computação
+# Análise de Criminalidade
 
 Repositório do trabalho de Analise de Criminalidade da matéria de Análise de Dados Aplicada a Computação da FAESA
+
+**Matéria:** Projeto Integrador Computação 3
+
+**Professor:** Howard Cruz Roatti
+
+**Tema:** Análise de Criminalidade
 
 **Grupo:**
 
