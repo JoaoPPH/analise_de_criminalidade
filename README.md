@@ -12,6 +12,6 @@ Repositório do trabalho de Analise de Criminalidade da matéria de Análise de 
 
 ## Onde os csv Utilizados Foram Adiquiridos
 
-Os csv utilizados neste trabalho foram adquiridos neste site: 
+Os csv utilizados neste trabalho foram adquiridos neste site do Governo Federal do Brasil: 
 
 https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/dados-nacionais-1/base-de-dados-e-notas-metodologicas-dos-gestores-estaduais-sinesp-vde-2022-e-2023
