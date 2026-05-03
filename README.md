@@ -16,7 +16,7 @@ Repositório do trabalho de Análise de Criminalidade
 - Pedro de Oliveira Guimarães; 
 - Thaís Peroni Custódio Lino. 
 
-## Onde os csv Utilizados Foram adquiridos
+## Onde os csv Utilizados Foram Adquiridos
 
 Os csv utilizados neste trabalho foram adquiridos neste site do Governo Federal do Brasil: 
 
