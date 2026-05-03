@@ -22,4 +22,4 @@ Os csv utilizados neste trabalho foram adquiridos neste site do Governo Federal 
 
 https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/dados-nacionais-1/base-de-dados-e-notas-metodologicas-dos-gestores-estaduais-sinesp-vde-2022-e-2023
 
-Dentro da pasta `"Codigos"` está a os scipts criados para juntar e converter os dados de criminalidade do SINESP VDE, juntamente com um README explicando como eles funcionam e como utilizá-los
+Dentro da pasta `Codigos` está os scipts criados para juntar e converter os dados de criminalidade do SINESP VDE, juntamente com um README explicando como eles funcionam e como utilizá-los
