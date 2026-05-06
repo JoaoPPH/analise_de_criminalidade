@@ -29,4 +29,4 @@ Dentro da pasta `Codigos` está os scipts criados para juntar e converter os dad
 
 ### Jupyter_Notebook_C2
 
-Dentro da pasta `Jupyter_Notebook_C2` está o código do Jupyter Notebook escrito em Python onde foram realizadas as análises da C2
+Dentro da pasta `Jupyter_Notebook_C2` está o código do Jupyter Notebook escrito em Python onde foram realizadas as análises da C2 e o arquivo explicando cada análise realizada
