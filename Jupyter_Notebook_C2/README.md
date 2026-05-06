@@ -12,6 +12,6 @@ Nesse arquivo foi realizado a explicação da importância de cada análise real
 
 ## Apresentação do protótipo em vídeo
 
-Nesse link está a Apresentação do protótipo em vídeo:
+Nesse link está a Apresentação do protótipo em vídeo da C2:
 
 https://youtu.be/HB2Lu4qGYYw?si=wmgEZKQ_UPBb2aME
