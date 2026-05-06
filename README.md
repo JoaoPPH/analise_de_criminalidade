@@ -29,4 +29,10 @@ Dentro da pasta **`Codigos`** está os scipts criados para juntar e converter os
 
 ### Jupyter_Notebook_C2
 
-Dentro da pasta **`Jupyter_Notebook_C2`** está o código do Jupyter Notebook escrito em Python onde foram realizadas as análises da C2 e o arquivo explicando cada análise realizada
+Dentro da pasta **`Jupyter_Notebook_C2`** está o código do Jupyter Notebook escrito em Python onde foram realizadas as análises da C2, o arquivo explicando cada análise realizada e o link da Apresentação do protótipo em vídeo da C2
+
+#### Apresentação do protótipo em vídeo
+
+Nesse link está a Apresentação do protótipo em vídeo da C2:
+
+https://youtu.be/HB2Lu4qGYYw?si=wmgEZKQ_UPBb2aME
