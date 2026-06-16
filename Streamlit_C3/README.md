@@ -16,5 +16,4 @@ O arquivo final completo com todas as análises adaptadas do código no Jupyter 
 
 ## Apresentação do protótipo em vídeo
 
-Nesse link está a Apresentação do protótipo em vídeo da C3:
-
+Nesse link está a Apresentação do protótipo em vídeo da C3: https://youtu.be/qa8oPMF2R3w?si=OlUmt2X4sVxFt-p9
