@@ -64,4 +64,4 @@ Para rodar o dashboard interativo localmente na sua máquina, siga os passos aba
 
 ## Demonstração do Projeto
 - Apresentação do protótipo em vídeo (C2): https://youtu.be/HB2Lu4qGYYw?si=wmgEZKQ_UPBb2aME
-- Apresentação do protótipo em vídeo (C3):
+- Apresentação do protótipo em vídeo (C3): https://youtu.be/qa8oPMF2R3w?si=OlUmt2X4sVxFt-p9
