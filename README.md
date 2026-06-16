@@ -35,12 +35,6 @@ Dentro da pasta **`Codigos`** está os scipts criados para juntar e converter os
 
 Dentro da pasta **`Jupyter_Notebook_C2`** está o código do Jupyter Notebook escrito em Python onde foram realizadas as análises da C2, o arquivo explicando cada análise realizada e o link da Apresentação do protótipo em vídeo da C2
 
-#### Apresentação do protótipo em vídeo da C2
-
-Nesse link está a Apresentação do protótipo em vídeo da C2:
-
-https://youtu.be/HB2Lu4qGYYw?si=wmgEZKQ_UPBb2aME
-
 ### Streamlit_C3
 
 Dentro da pasta **`Streamlit_C3`** estão os códigos em Python utilizando o framework Streamlit. Nesta etapa (C3), as análises exploratórias desenvolvidas na C2 foram transformadas em um painel interativo (Dashboard), com as seguintes melhorias:
