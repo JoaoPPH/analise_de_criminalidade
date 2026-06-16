@@ -12,7 +12,7 @@ Nesse arquivo foi incluido a parte "1. Análise do número de crimes em cada Est
 
 ## Trabalho_C3_Analise_Criminalidade_PIC3_2026_1_VersaoFinal.py
 
-O arquivo final completo com todas as análises adaptadas do códgio no Jupyter Notebook da C2
+O arquivo final completo com todas as análises adaptadas do código no Jupyter Notebook da C2
 
 ## Apresentação do protótipo em vídeo
 
